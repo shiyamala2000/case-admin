@@ -1,0 +1,41 @@
+.modal-header{
+    font-family: 'poppins',sans-serif;
+}
+.modal-title{
+    font-family: 'poppins',sans-serif;
+}
+.modal-body{
+    font-family: 'poppins',sans-serif;
+}
+.form-label{
+    font-family: 'poppins',sans-serif;
+}
+.form-control{
+    font-family: 'poppins',sans-serif;
+}
+.modal-footer{
+    font-family: 'poppins',sans-serif;
+}
+
+/* .btn-close {
+    background: none;   
+    border: none;
+    color: #000;
+    background-color: white;
+    
+  }
+
+  .btn-close:hover {
+    color: #505052; 
+  } */
+.custom-textarea {
+    width: 80%; 
+}
+
+.btn-custom {
+    background-color: rgb(46, 91, 158);
+    color: white;
+}
+.form-label{
+    color: rgb(46, 91, 158);
+}
